@@ -1,0 +1,11 @@
+export enum STINT {
+  FOCUS,
+  SHORT_BREAK,
+  LONG_BREAK,
+}
+
+export enum STINT_STATUS {
+  INPROGRESS,
+  PAUSED,
+  INITIAL,
+}
